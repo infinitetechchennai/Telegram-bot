@@ -1,9 +1,0 @@
-# Data directory
-# Place your input Excel files here at runtime (all .xlsx files are gitignored).
-# This .gitkeep file ensures the folder is tracked by git.
-#
-# Expected files (not committed):
-#   - phone_numbers.xlsx
-#   - registered_telegram_software_leads.xlsx
-#   - user_responses.xlsx
-#   - <any lead list>.xlsx
